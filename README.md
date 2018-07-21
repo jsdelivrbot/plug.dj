@@ -26,4 +26,4 @@ javascript:(function(){$.getScript('//dl.dropboxusercontent.com/s/28ce4ru7tqhp9r
 
 
 
-javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/28ce4ru7tqhp9rj/extension.js%27);%7D)();
+javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/28ce4ru7tqhp9rj/extension.js');})();
