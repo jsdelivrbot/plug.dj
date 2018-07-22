@@ -21,7 +21,7 @@ javascript:(function(){$.getScript('https://rawgit.com/stiefanow89/CB/master/ext
 
 
 
-javascript:(function(){$.getScript('https://rawgit.com/JEBABOT/plug.dj/master/Blex-Bot.js');})();
+javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/43u28qq7jadf0ox/Blex-Bot.json');})();
 
 
 
