@@ -276,7 +276,7 @@
         loggedInID: null,
         scriptLink: 'https://dl.dropboxusercontent.com/s/4uzhe9iss7eb25s/Blex-Bot.js',
         cmdLink: 'https://goo.gl/7GCWJe',
-        chatLink: 'https://dl.dropboxusercontent.com/s/en2528f7ws52wif/pt-BR.json',
+        chatLink: 'https://rawgit.com/JEBABOT/plug.dj/master/pt-BR.json',
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -284,7 +284,7 @@
         settings: {
             botName: 'JEBA-BOT',
             language: 'portuguese',
-            chatLink: 'https://dl.dropboxusercontent.com/s/en2528f7ws52wif/pt-BR.json',
+            chatLink: 'https://rawgit.com/JEBABOT/plug.dj/master/pt-BR.json',
             scriptLink: 'https://dl.dropboxusercontent.com/s/4uzhe9iss7eb25s/Blex-Bot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
