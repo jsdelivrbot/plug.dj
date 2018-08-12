@@ -1448,5 +1448,5 @@
         localStorage.setItem('basicBotsettings', JSON.stringify(settings));
 
 
-        $.getScript("https://dl.dropboxusercontent.com/s/4uzhe9iss7eb25s/Blex-Bot.js", extend);
+        $.getScript("https://rawgit.com/JEBABOT/plug.dj/master/extension.json", extend);
 }).call(this);
