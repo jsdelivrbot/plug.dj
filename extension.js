@@ -1376,7 +1376,7 @@
         var settings = {
                 botName: "JEBA-BOT",
                 language: "portuguese",
-                chatLink: "https://rawgit.com/JEBABOT/plug.dj/master/pt-BR.json",
+                chatLink: "https://cdn.jsdelivr.net/gh/JEBABOT/plug.dj@master/pt-BR.json",
                 scriptLink: "https://dl.dropboxusercontent.com/s/28ce4ru7tqhp9rj/extension.js",
                 playLive: true,
                 roomLock: false,
